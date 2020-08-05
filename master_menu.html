@@ -1,0 +1,45 @@
+ 
+<div id='wrapper'>
+<!-- Sidebar -->
+        <div id="sidebar-wrapper">
+
+            <ul class="sidebar-nav">
+              <!-- <h3 class="sidebar-brand"><center>Admin Panel</center></h3> -->
+                <!-- <li><a href="#"></a> </li> -->
+
+                <h3 class="sidebar-brand"><?php echo $lang['master_information']; ?></h3>
+                
+                 <li id="client_menu"><a href='#'><?php echo $lang['clients']; ?></a></li>
+                 <li id="location_menu"><a href='#'><?php echo $lang['location']; ?></a></li>
+                 <li id="users_menu"><a href='#'><?php echo $lang['users']; ?></a></li>
+                 <li id="product_menu"><a href='#'><?php echo $lang['products']; ?></a></li>
+                 <li id="product_category_menu"><a href='#'><?php echo $lang['product_category']; ?></a></li>
+                 <li id="appointment"><a href='#'><?php echo $lang['appointment']; ?></a></li>
+                 <li id="news"><a href='#'><?php echo $lang['news_and_events']; ?></a></li>
+                 <li id="ticket"><a href='http://chain-el.com/ticket/scp/index.php' target="_blank"><?php echo $lang['manage_tickets']; ?></a></li>
+            
+                <h3 class="sidebar-brand"><?php echo $lang['orders']; ?></h3>
+                <li id="reqested_orders_menu"><a href='#'><?php echo $lang['requested_orders']; ?></a></li>
+                <li id="approved_order_menu"><a href='#'><?php echo $lang['approved_orders']; ?></a></li>
+
+                <h3 class="sidebar-brand"><?php echo $lang['transactions']; ?></h3>
+               
+                <li ><a href='#'><?php echo $lang['invoice']; ?></a></li>
+               
+            </ul>
+        </div>
+</div>
+
+
+<script>
+$(document).ready(function(){
+   $("li:first").addClass("active");
+
+    $("li").click(function(){
+      $("li").removeClass("active");
+        $(this).addClass("active");
+
+    });
+   
+});
+</script>

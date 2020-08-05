@@ -1,0 +1,7 @@
+19-11-2015
+**********
+1. Adjusting sign-up form.
+2. After submit sign-up form , open another section which indicates user to successful! has been done wait for approve.
+3. encrepted password should be saved in database.
+4. That shuld be note for " Required fields must be entered! Marked with *." in sign-up form.
+5. How to integrate Oracle with PHP, and also what are the reporting tools available for PHP with Oracle.

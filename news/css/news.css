@@ -1,0 +1,13 @@
+.news_outer .panel-default{
+	width: 50%;
+	margin-top: 40px;
+}
+#add_news p{
+	margin-top: -15px;
+
+}
+@media only screen and (max-width: 668px){
+.news_outer .panel-default{
+	width: auto;
+}
+}

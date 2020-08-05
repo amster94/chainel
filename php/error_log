@@ -1,0 +1,30 @@
+[10-Mar-2016 16:20:37 Asia/Calcutta] PHP Notice:  Undefined index: selectrow1 in /home/chainelc/public_html/php/reflect.php on line 2
+[10-Mar-2016 16:20:37 Asia/Calcutta] PHP Warning:  include(../languages/lang.en_test_json.php): failed to open stream: No such file or directory in /home/chainelc/public_html/php/recieve1.php on line 2
+[10-Mar-2016 16:20:37 Asia/Calcutta] PHP Warning:  include(../languages/lang.en_test_json.php): failed to open stream: No such file or directory in /home/chainelc/public_html/php/recieve1.php on line 2
+[10-Mar-2016 16:20:37 Asia/Calcutta] PHP Warning:  include(): Failed opening '../languages/lang.en_test_json.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/chainelc/public_html/php/recieve1.php on line 2
+[10-Mar-2016 16:20:37 Asia/Calcutta] PHP Notice:  Undefined variable: lang_json in /home/chainelc/public_html/php/recieve1.php on line 3
+[11-Mar-2016 19:52:33 Asia/Calcutta] PHP Notice:  Undefined index: selectrow1 in /home/chainelc/public_html/php/reflect.php on line 2
+[11-Mar-2016 19:52:39 Asia/Calcutta] PHP Warning:  include(../languages/lang.en_test_json.php): failed to open stream: No such file or directory in /home/chainelc/public_html/php/recieve1.php on line 2
+[11-Mar-2016 19:52:39 Asia/Calcutta] PHP Warning:  include(../languages/lang.en_test_json.php): failed to open stream: No such file or directory in /home/chainelc/public_html/php/recieve1.php on line 2
+[11-Mar-2016 19:52:39 Asia/Calcutta] PHP Warning:  include(): Failed opening '../languages/lang.en_test_json.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/chainelc/public_html/php/recieve1.php on line 2
+[11-Mar-2016 19:52:39 Asia/Calcutta] PHP Notice:  Undefined variable: lang_json in /home/chainelc/public_html/php/recieve1.php on line 3
+[11-Mar-2016 19:53:25 Asia/Calcutta] PHP Warning:  include(../languages/lang.en_test_json.php): failed to open stream: No such file or directory in /home/chainelc/public_html/php/recieve1.php on line 2
+[11-Mar-2016 19:53:25 Asia/Calcutta] PHP Warning:  include(../languages/lang.en_test_json.php): failed to open stream: No such file or directory in /home/chainelc/public_html/php/recieve1.php on line 2
+[11-Mar-2016 19:53:25 Asia/Calcutta] PHP Warning:  include(): Failed opening '../languages/lang.en_test_json.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/chainelc/public_html/php/recieve1.php on line 2
+[11-Mar-2016 19:53:25 Asia/Calcutta] PHP Notice:  Undefined variable: lang_json in /home/chainelc/public_html/php/recieve1.php on line 3
+[11-Mar-2016 19:53:25 Asia/Calcutta] PHP Notice:  Undefined index: selectrow1 in /home/chainelc/public_html/php/reflect.php on line 2
+[11-Mar-2016 21:03:10 Asia/Calcutta] PHP Warning:  include(../languages/lang.en_test_json.php): failed to open stream: No such file or directory in /home/chainelc/public_html/php/recieve1.php on line 2
+[11-Mar-2016 21:03:10 Asia/Calcutta] PHP Warning:  include(../languages/lang.en_test_json.php): failed to open stream: No such file or directory in /home/chainelc/public_html/php/recieve1.php on line 2
+[11-Mar-2016 21:03:10 Asia/Calcutta] PHP Warning:  include(): Failed opening '../languages/lang.en_test_json.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/chainelc/public_html/php/recieve1.php on line 2
+[11-Mar-2016 21:03:10 Asia/Calcutta] PHP Notice:  Undefined variable: lang_json in /home/chainelc/public_html/php/recieve1.php on line 3
+[11-Mar-2016 21:03:10 Asia/Calcutta] PHP Notice:  Undefined index: selectrow1 in /home/chainelc/public_html/php/reflect.php on line 2
+[11-Mar-2016 21:03:22 Asia/Calcutta] PHP Notice:  Undefined index: selectrow1 in /home/chainelc/public_html/php/reflect.php on line 2
+[11-Mar-2016 21:03:22 Asia/Calcutta] PHP Warning:  include(../languages/lang.en_test_json.php): failed to open stream: No such file or directory in /home/chainelc/public_html/php/recieve1.php on line 2
+[11-Mar-2016 21:03:22 Asia/Calcutta] PHP Warning:  include(../languages/lang.en_test_json.php): failed to open stream: No such file or directory in /home/chainelc/public_html/php/recieve1.php on line 2
+[11-Mar-2016 21:03:22 Asia/Calcutta] PHP Warning:  include(): Failed opening '../languages/lang.en_test_json.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/chainelc/public_html/php/recieve1.php on line 2
+[11-Mar-2016 21:03:22 Asia/Calcutta] PHP Notice:  Undefined variable: lang_json in /home/chainelc/public_html/php/recieve1.php on line 3
+[14-Mar-2016 07:49:35 Asia/Calcutta] PHP Notice:  Undefined index: selectrow1 in /home/chainelc/public_html/php/reflect.php on line 2
+[14-Mar-2016 07:49:35 Asia/Calcutta] PHP Warning:  include(../languages/lang.en_test_json.php): failed to open stream: No such file or directory in /home/chainelc/public_html/php/recieve1.php on line 2
+[14-Mar-2016 07:49:35 Asia/Calcutta] PHP Warning:  include(../languages/lang.en_test_json.php): failed to open stream: No such file or directory in /home/chainelc/public_html/php/recieve1.php on line 2
+[14-Mar-2016 07:49:35 Asia/Calcutta] PHP Warning:  include(): Failed opening '../languages/lang.en_test_json.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/chainelc/public_html/php/recieve1.php on line 2
+[14-Mar-2016 07:49:35 Asia/Calcutta] PHP Notice:  Undefined variable: lang_json in /home/chainelc/public_html/php/recieve1.php on line 3
